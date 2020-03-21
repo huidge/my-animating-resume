@@ -1,0 +1,57 @@
+
+#app[data-v-eb124eb4] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html[data-v-eb124eb4] {
+  min-height: 100vh;
+}
+*[data-v-eb124eb4]{
+  box-sizing: border-box;
+}
+
+pre[data-v-0c563750]{
+}
+@media (max-width:500px){
+pre[data-v-0c563750]{
+}
+}
+.code[data-v-0c563750] {
+  display: none;
+}
+
+@media (max-width:500px){
+.resumeEditor[data-v-60a5fb98]{
+}
+}
+.htmlMode[data-v-60a5fb98] {
+  animation: flip 2s;
+}
+@keyframes flip {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+*{margin: 0; padding: 0;}
+*{box-sizing: border-box;}
+*::before{box-sizing: border-box;}
+*::after{box-sizing: border-box;}
+#app[data-v-e7aeeaa6] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh; position: relative;
+}
+html[data-v-e7aeeaa6] {
+  min-height: 100vh;
+}
+*[data-v-e7aeeaa6]{
+  box-sizing: border-box;
+}
+
+
+/*# sourceMappingURL=app.39ce040ea4fa8526fbe085592b41cead.css.map*/
